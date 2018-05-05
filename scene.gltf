@@ -3681,22 +3681,22 @@
   ],
   "images": [
     {
-      "uri": "textures/legno_cassa_sopra_diffuse.png"
+      "uri": "legno_cassa_sopra_diffuse.png"
     },
     {
-      "uri": "textures/plastica_patella_proteggicassa_diffuse.png"
+      "uri": "plastica_patella_proteggicassa_diffuse.png"
     },
     {
-      "uri": "textures/legno_tastiera_diffuse.png"
+      "uri": "legno_tastiera_diffuse.png"
     },
     {
-      "uri": "textures/legno_manico_diffuse.png"
+      "uri": "legno_manico_diffuse.png"
     },
     {
-      "uri": "textures/legno_cassa_sotto_diffuse.png"
+      "uri": "legno_cassa_sotto_diffuse.png"
     },
     {
-      "uri": "textures/legno_reggiponte_diffuse.png"
+      "uri": "legno_reggiponte_diffuse.png"
     }
   ],
   "materials": [
